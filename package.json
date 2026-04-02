@@ -8,6 +8,7 @@
     "require": "./dist/shp.js"
   },
   "type": "module",
+  "types": "lib/index.d.ts",
   "repository": {
     "type": "git",
     "url": "git://github.com/calvinmetcalf/shapefile-js.git"
